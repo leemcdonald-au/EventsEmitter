@@ -1,0 +1,25 @@
+{
+  "name": "@leemcdonald-au/eventsemitter",
+  "version": "1.0.0",
+  "description": "Adds a call() function to EventEmitter to call events directly.",
+  "main": "src/EventsEmitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leemcdonald-au/EventsEmitter.git"
+  },
+  "keywords": [
+    "events",
+    "emitter",
+    "call"
+  ],
+  "author": "Lee McDonald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leemcdonald-au/EventsEmitter/issues"
+  },
+  "homepage": "https://github.com/leemcdonald-au/EventsEmitter#readme",
+  "type": "module"
+}
